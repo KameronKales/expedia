@@ -10,3 +10,6 @@ print shape
 head = test.head(5)
 
 print head
+
+
+train["hotel_cluster"].value_counts()
